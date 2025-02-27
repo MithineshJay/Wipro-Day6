@@ -1,0 +1,5 @@
+# Created at 2025-02-22T15:10:35.145
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Wipro-Training-Phase2\wiproDay6-JWTToken\Ust-springsecurity-main\Ust-springsecurity-main\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
